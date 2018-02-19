@@ -480,3 +480,5 @@ https://earlyradiohistory.us
 https://int.soccerway.com
 (?i)http://www\.uefa\.com/MultimediaFiles/Download/
 https://www.uefa.com/MultimediaFiles/Download/
+(?i)http://svenskfotboll\.se
+https://svenskfotboll.se
