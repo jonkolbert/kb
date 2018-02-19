@@ -474,3 +474,9 @@ https://www.hockey-reference.com
 https://www.bbc.\1/\2/
 (?i)http://www\.nationalobserver\.com
 https://www.nationalobserver.com
+(?i)http://earlyradiohistory\.us
+https://earlyradiohistory.us
+(?i)http://([^.]{1,}\.)?soccerway\.com
+https://int.soccerway.com
+(?i)http://www\.uefa\.com/MultimediaFiles/Download/
+https://www.uefa.com/MultimediaFiles/Download/
