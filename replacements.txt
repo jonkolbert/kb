@@ -516,3 +516,5 @@ https://www.baseball-reference.com
 https://www.pro-football-reference.com
 (?i)http://www\.sports\-reference\.com
 https://www.sports-reference.com
+(?i)http://www\.telegraph\.co\.uk
+https://www.telegraph.co.uk
