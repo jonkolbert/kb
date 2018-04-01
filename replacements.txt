@@ -520,3 +520,9 @@ https://www.sports-reference.com
 https://www.telegraph.co.uk
 (?i)http://www\.npr\.org
 https://www.npr.org
+(?i)http://www\.mirror\.co\.uk
+https://www.mirror.co.uk
+(?i)http://www\.ncaa\.com
+https://www.ncaa.com
+(?i)http://www\.standard\.co\.uk
+https://www.standard.co.uk
