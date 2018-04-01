@@ -518,3 +518,5 @@ https://www.pro-football-reference.com
 https://www.sports-reference.com
 (?i)http://www\.telegraph\.co\.uk
 https://www.telegraph.co.uk
+(?i)http://www\.npr\.org
+https://www.npr.org
