@@ -526,3 +526,5 @@ https://www.mirror.co.uk
 https://www.ncaa.com
 (?i)http://www\.standard\.co\.uk
 https://www.standard.co.uk
+(?i)http://thenextweb\.com
+https://thenextweb.com
