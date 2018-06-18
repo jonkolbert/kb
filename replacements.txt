@@ -528,3 +528,5 @@ https://www.ncaa.com
 https://www.standard.co.uk
 (?i)http://thenextweb\.com
 https://thenextweb.com
+(?i)http://([^.]{1,}\.)mozilla\.org
+https://\1mozilla.org
