@@ -530,3 +530,5 @@ https://thenextweb.com
 https://\1mozilla.org
 (?i)http://([^.]{1,}\.)chromium\.org
 https://\1chromium.org
+(?i)http://([^.]{1,}\.)imdb\.com
+https://\1imdb.com
