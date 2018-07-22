@@ -532,3 +532,11 @@ https://\1mozilla.org
 https://\1chromium.org
 (?i)http://([^.]{1,}\.)imdb\.com
 https://\1imdb.com
+(?i)http://collections\.vam\.ac\.uk
+https://collections.vam.ac.uk
+(?i)http://www\.europeana\.eu
+https://www.europeana.eu
+(?i)http://www\.cmjornal\.pt
+https://www.cmjornal.pt
+(?i)http://([^/]*)\.sapo\.pt
+https://\1.sapo.pt
