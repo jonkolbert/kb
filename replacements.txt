@@ -540,3 +540,11 @@ https://www.europeana.eu
 https://www.cmjornal.pt
 (?i)http://([^/]*)\.sapo\.pt
 https://\1.sapo.pt
+(?i)http://www\.dn\.pt
+https://www.dn.pt
+(?i)http://www\.fpf\.pt
+https://www.fpf.pt
+(?i)http://www\.jornaldenegocios\.pt
+https://www.jornaldenegocios.pt
+(?i)http://www\.ojogo\.pt
+https://www.ojogo.pt
